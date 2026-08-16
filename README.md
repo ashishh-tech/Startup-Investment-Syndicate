@@ -13,7 +13,7 @@
 ## 📌 Submission Information (Stellar Orange Belt)
 - **Repository**: [https://github.com/ashishh-tech/Startup-Investment-Syndicate](https://github.com/ashishh-tech/Startup-Investment-Syndicate)
 - **Belt Track**: Level 3 – Orange Belt Submission (Stellar Ecosystem Track 2026)
-- **Live Demo Link**: [https://startup-investment-syndicate.vercel.app](https://startup-investment-syndicate.vercel.app)
+- **Live Demo Link**: [https://startupinvestmentsyndicate.netlify.app/](https://startupinvestmentsyndicate.netlify.app/)
 
 ---
 
