@@ -14,6 +14,22 @@
 - **Repository**: [https://github.com/ashishh-tech/Startup-Investment-Syndicate](https://github.com/ashishh-tech/Startup-Investment-Syndicate)
 - **Belt Track**: Level 3 – Orange Belt Submission (Stellar Ecosystem Track 2026)
 - **Live Demo Link**: [https://startupinvestmentsyndicate.netlify.app/](https://startupinvestmentsyndicate.netlify.app/)
+- **Demo Video (YouTube)**: [https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID) *(Paste your YouTube link here)*
+
+---
+
+## 🎥 Product Demo & Video Walkthrough
+
+[![Startup Investment Syndicate Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+> 🎬 **Watch the 2-minute Video Walkthrough**: [https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+> *(To update: replace `YOUR_YOUTUBE_VIDEO_ID` in `README.md` with your YouTube video ID)*
+
+### Video Highlights:
+1. **Wallet Connection**: Connecting Freighter / Testnet Simulator with real-time balance tracking.
+2. **Venture Capital Commitment**: Depositing USDC into Soroban Vault & minting LP tokens.
+3. **Milestone Escrow Tranches**: Deliverable audits & releasing funds to startup recipient.
+4. **Cross-Contract Waterfall Engine**: 3.3x acquisition exit simulation and pro-rata payout claims.
 
 ---
 
